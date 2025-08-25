@@ -10,16 +10,20 @@ h1 {
 
 #motivational-picture {
   border: 5px solid white;
-  width: 100%;
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 html {
   background-color: black;
 }
 
 div {
-  margin: 25%;
-  width: 50%;
+  margin: 50px;
 }
+
 #small-text {
   color: white;
   font-family: sans-serif;
