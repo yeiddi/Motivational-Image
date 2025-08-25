@@ -1,0 +1,28 @@
+h1 {
+  font-family: libre baskerville, serif;
+  color: white;
+  background-color: black;
+  text-transform: uppercase;
+  text-align: center;
+  font-style: italic;
+  font-size: 150%;
+}
+
+#motivational-picture {
+  border: 5px solid white;
+  width: 100%;
+}
+html {
+  background-color: black;
+}
+
+div {
+  margin: 25%;
+  width: 50%;
+}
+#small-text {
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 85%;
+}
